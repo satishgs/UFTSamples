@@ -1,2 +1,4 @@
 ﻿Browser("OrangeHRM").Page("OrangeHRM").WebEdit("txtUsername").Set "admin" @@ hightlight id_;_Browser("OrangeHRM").Page("OrangeHRM").WebEdit("txtUsername")_;_script infofile_;_ZIP::ssf1.xml_;_
 Browser("OrangeHRM").Page("OrangeHRM").WebButton("LOGIN").Click @@ hightlight id_;_Browser("OrangeHRM").Page("OrangeHRM").WebButton("LOGIN")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("OrangeHRM").Page("OrangeHRM").WebEdit("txtPassword").SetSecure "5dcae94a2a157de9648ea37cb6e9753d3973f9896778fea13b0cec310b4e1873" @@ hightlight id_;_Browser("OrangeHRM").Page("OrangeHRM").WebEdit("txtPassword")_;_script infofile_;_ZIP::ssf5.xml_;_
+Browser("OrangeHRM").Page("OrangeHRM").WebButton("LOGIN").Click @@ hightlight id_;_Browser("OrangeHRM").Page("OrangeHRM").WebButton("LOGIN")_;_script infofile_;_ZIP::ssf6.xml_;_
